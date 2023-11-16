@@ -1,0 +1,28 @@
+#map, body {
+  width: 100%;
+  height: 91%;
+  box-shadow: 5px 5px 5px #888;
+
+}
+
+head, html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+h1{
+    color:#057df5;
+    font-family: tahoma;
+    font-size: 30pt;
+    text-align: center
+}
+
+h3{
+    color:#1bc677;
+    font-family: tahoma;
+    font-style: italic;
+    font-size: 15pt;
+    text-align: center
+     
+}
