@@ -2,7 +2,7 @@ Mapa de la Costa Daurada
 Este repositorio contiene una aplicación web que muestra un mapa de la región de la Costa Daurada de España. El mapa incluye marcadores para hoteles y campings, así como una función de búsqueda para encontrar ubicaciones específicas.
 Puedes visitar el sitio [aquí](alojamientos-costa-daurada.vercel.app)
 
-![]((https://s5.gifyu.com/images/SRNyR.gif)
+![](https://s5.gifyu.com/images/SRNyR.gif)
 
 Tecnologías
 La aplicación está construida utilizando las siguientes tecnologías:
